@@ -1,6 +1,6 @@
 {
-  "latestVersionCode":2,
-  "latestVersionName": "1.2",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
   "updateUrl": "https://yourdomain.com/ZInSaver.apk",
-  "message": "New update available with bug fixes and improvements."
+  "message": "A new version 1.1 is available! Some features may stop working if you do not update. Enjoy enhanced performance and new features."
 }
